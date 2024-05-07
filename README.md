@@ -1,11 +1,5 @@
-### Hi there 👋
-
-<h1 align="center">
-  <a href="https://example.com">
-    Hi 👋, I'm Saurabh
-  </a>
-</h1>
-<h3 align="center">A skilled software developer expert in React and Next</h3>
+### Hi there 👋, I'm Saurabh
+<h3>A skilled software developer expert in React and Next</h3>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on My Personal Portfolio App
